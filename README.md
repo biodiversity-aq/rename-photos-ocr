@@ -61,7 +61,7 @@ rename-photos-ocr/
 
 Before:
 
-![photos/IMG_2137.JPG](./photos/IMG_2137.JPG =250x)
+<img src="photos/IMG_2137.JPG" width="500">
 
 File was `photos/IMG_2137.JPG`
 
