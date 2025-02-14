@@ -29,6 +29,8 @@ Or manually install the required libraries:
 pip install paddleocr opencv-python numpy
 ```
 
+The script was written in Python 3.11.
+
 ## Usage
 
 ### 1. Prepare Your Images
@@ -71,8 +73,12 @@ renamed/AAV3FF_00183.jpg
 ```
 
 ## License
+
 This project is licensed under the MIT License.
 
 ## Acknowledgments
+
 Developed with assistance from ChatGPT.
+
+This work is part of the ADVANCE project funded by BELSPO (BELSPO project RT/23/ADVANCE).
 
