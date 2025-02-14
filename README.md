@@ -61,9 +61,9 @@ rename-photos-ocr/
 
 Before:
 
-![corrected_IMG_2042.JPG](photos%2Fcorrected_IMG_2042.JPG)
+![photos/IMG_2137.JPG](./photos/IMG_2137.JPG =250x)
 
-File was `photos/IMG_2042.JPG`
+File was `photos/IMG_2137.JPG`
 
 After OCR and renaming:
 ```
