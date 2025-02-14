@@ -67,7 +67,7 @@ File was `photos/IMG_2137.JPG`
 
 After OCR and renaming:
 ```
-renamed/AAV3FF_00161.jpg
+renamed/AAV3FF_00183.jpg
 ```
 
 ## License
