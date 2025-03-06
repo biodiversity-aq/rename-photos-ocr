@@ -1,5 +1,7 @@
 # Rename Photos with OCR
 
+[![DOI](https://zenodo.org/badge/932641220.svg)](https://doi.org/10.5281/zenodo.14981424)
+
 This script automates the renaming of specimen photos by extracting labels using Optical Character Recognition (OCR). It uses **PaddleOCR** to detect text and **OpenCV** to correct image rotation before processing.
 
 ## Features
